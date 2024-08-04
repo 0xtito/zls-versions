@@ -6,6 +6,12 @@ Zig tools releases: https://zigtools-releases.nyc3.digitaloceanspaces.com/zls/in
 
 **Note**: This is likely a terrible way to do it but it works
 
+## Installing
+
+To clone and install the repo + submodules:
+
+`git clone --recurse-submodules https://github.com/0xtito/zls-versions.git`
+
 ## Zig: 0.13.0 & ZLS: 0.13.0
 
 Latest stable release.
