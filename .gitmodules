@@ -1,6 +1,8 @@
 [submodule "0.13.0-dev.351+64ef45eb0"]
 	path = 0.13.0-dev.351+64ef45eb0
-	url = https://github.com/zigtools/zls/tree/73e7db9cc92a10bfadacf060bb125b5f26a77db5
+	url = https://github.com/zigtools/zls.git
+	branch = 73e7db9cc92a10bfadacf060bb125b5f26a77db5
 [submodule "0.13.0"]
 	path = 0.13.0
-	url = https://github.com/zigtools/zls/tree/0.13.0
+	url = https://github.com/zigtools/zls.git
+	branch = 0.13.0
